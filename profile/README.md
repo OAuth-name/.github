@@ -19,7 +19,7 @@ To get started with OAuth.name, follow these steps:
 4. Utilize the OAuth.name graphical interface to customize the Telegram SSO implementation according to your application's needs.
 5. Test and deploy your application with Telegram SSO functionality enabled.
 
-For detailed installation instructions and code examples, please refer to the [Documentation](https://oauth.name/docs).
+For detailed installation instructions and code examples, please refer to the [Documentation]([https://oauth.name/docs](https://github.com/OAuth-name/docs/wiki)).
 
 ## Support and Feedback
 
